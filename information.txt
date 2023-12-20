@@ -1,0 +1,46 @@
+RUS:
+Игра создана по книге Эрика Мэтиза "Изучаем Python:программирование игр, визуализация
+данных, веб-приложения.".
+3-е издание, Издательство Питер.
+
+Абсалямов Салават - Stushor.
+Alien Invasion
+
+Описание:
+Каждый игрок управляет кораблем, который находится в середине нижнего края экрана.
+Игрок перемещает корабль вправо и влево клавишами управления курсором;
+клавиша "пробел" используется для стрельбы. В начале игры флот пришельцев находится
+в верхней части экрана и постепенно опускается вниз, также смещаясь в сторону.
+Игрок выстрелами уничтожает пришельцев. Если ему удается сбить всех пришельцев
+появляется новый флот, который движется быстрее предыдущего. Если пришелец сталкивается
+с кораблем игрока или доходит до нижнего края экрана, игрок теряет корабль. Если игрок
+теряет все три корабля, игра заканчивается.
+
+YouTube: www.youtube.com/@stushor_jap
+Telegram: t.me/stushorblog
+Instagram: www.instagram.com/absalyamov_salavat_jap
+Вопросы по сотрудничеству: business_stushor_jap@gmail.com
+
+ENG:
+The game was created based on the book by Eric Mathiz "Learning Python: Game Programming,
+Visualization data, web applications."
+3rd edition, Petersburg Publishing House.
+
+Absalyamov Salavat - Stushor.
+Alien Invasion
+
+Description:
+Each player controls a ship, which is located in the middle of the bottom edge of the screen.
+The player moves the ship right and left with the cursor keys;
+The spacebar is used to shoot. At the beginning of the game the alien fleet is
+at the top of the screen and gradually goes down, also moving to the side.
+The player destroys the aliens with shots. If he manages to shoot down all the aliens
+a new fleet appears, which moves faster than the previous one. If the alien collides
+with the player's ship or reaches the bottom edge of the screen, the player loses the ship.
+If the player loses all three ships, the game ends.
+
+YouTube: www.youtube.com/@stushor_jap
+Telegram: t.me/stushorblog
+Instagram: www.instagram.com/absalyamov_salavat_jap
+Questions about cooperation: business_stushor_jap@gmail.com
+
